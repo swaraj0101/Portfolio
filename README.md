@@ -1,4 +1,4 @@
-# Portfolio
+<h1 align="center">Portfolio</h1>
 
 ## Home page
 
