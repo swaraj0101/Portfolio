@@ -1,6 +1,6 @@
 <h1 align="center">Portfolio</h1>
 
-## Home page
+## Home Page
 
 ![Screenshot (236)](https://github.com/user-attachments/assets/573abbf6-6c89-4216-b8a5-dace2a4e26b8)
 
@@ -14,6 +14,6 @@
 
 ![Screenshot (240)](https://github.com/user-attachments/assets/a9e767ae-f403-4dd1-b774-bcc0e830d22b)
 
-## Connect Section
+## Contact Section
 
 ![Screenshot (241)](https://github.com/user-attachments/assets/ec3f1bbd-7b61-470b-a409-df966e493090)
